@@ -20,7 +20,7 @@
  - Step 6: Then select the source (default is main branch) and click to save
  - Step 7: After few minutes to wait for GitHub host this page you can access it at https://username.github.io/HOMEPAGE/ (Change the username in the link to your GitHub username)
  
- NOTE: all of this step is for someone didn't know how to clone and host an GitHub page. If you know all, you can skip all of this step/
+ NOTE: all of this step is for someone didn't know how to clone and host an GitHub page. If you know all, you can skip all of this step
 
  ## About the repository
  You can change the code to make the custom version of you, but you need to link the original author to this repository and me
